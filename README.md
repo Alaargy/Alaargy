@@ -4,7 +4,7 @@
 > 🌐 Know-how Student | Systems Engineer in progress  
 > ⌁ I explore, I learn, I build ⌁
 
-![banner](https://user-images.githubusercontent.com/00000000/banner-placeholder.png)
+![banner](https://wallpapercave.com/wp/wp11545003.jpg)
 
 </div>
 
@@ -13,6 +13,7 @@
 ### 🧠 About Me
 
 Φ Know-how Student Φ  
+
 ╭≽  
 │- Prospector ⊕ | MATLAB, Math, Physics, Philosophy  
 │  
@@ -33,17 +34,6 @@
 
 ---
 
-### 🎮 Gaming Identity
-
-I play to **enjoy**, but I don't mind some **competition**.  
-Mostly into:
-- Indie | Co-Op | Survival | FPS  
-- Favorite titles: Terraria, Dead Cells, Hollow Knight, UltraKill, DUSK, Ark, Risk of Rain, Helltaker
-
-> 🎮 Steam & Xbox are both my main platforms!
-
----
-
 ### 🔗 Connect with Me
 
 | Platform | Link |
@@ -53,15 +43,6 @@ Mostly into:
 | 🎮 Xbox | [xbox.com/play/user/Zechariah2140](https://www.xbox.com/en-US/play/user/Zechariah2140) |
 | 🧠 Reddit | [reddit.com/user/Alaargy](https://www.reddit.com/user/Alaargy) |
 | 🛠 GitHub | [github.com/Alaargy](https://github.com/Alaargy) |
-
----
-
-### 📌 Goals (2025+)
-
-- 🧠 Build a clear, powerful **Digital Identity**  
-- 📚 Complete foundational **Coursera Certificates**  
-- 💻 Start publishing **MATLAB/Engineering projects**  
-- ✨ Blend Philosophy & Tech into a unique career vision
 
 ---
 
