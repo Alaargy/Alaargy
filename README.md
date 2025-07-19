@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✦ Zechariah (Alaargy) ✦  
-> 🌐 Know-how Student | Systems Engineer in progress  
+> ∯ Know-how Student | Systems Engineer in progress ∯
 > ⌁ I explore, I learn, I build ⌁
 
 </div>
