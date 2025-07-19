@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Zechariah (Alaargy) ✦  
+# ✦ Zechariah ✦  
 > ∯ Know-how Student | Systems Engineer in progress ∯    
 
 </div>
