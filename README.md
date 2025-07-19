@@ -4,8 +4,6 @@
 > 🌐 Know-how Student | Systems Engineer in progress  
 > ⌁ I explore, I learn, I build ⌁
 
-![banner](https://wallpapercave.com/wp/wp11545003.jpg)
-
 </div>
 
 ---
