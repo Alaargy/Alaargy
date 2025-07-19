@@ -18,16 +18,3 @@
 │  
 │- I Strive to become a Systems Engineer  
 ╰≽  
-
----
-
-### ⇒ Connect with Me
-
-| Platform | Link |
-|---------|------|
-| Discord | `@alaargy_t90` |
-| Reddit | [reddit.com/user/Alaargy](https://www.reddit.com/user/Alaargy) |
-| LinkedIn | [linkedin.com/in/alaargy](https://www.linkedin.com/in/alaargy) |
-| Steam | [steamcommunity.com/id/alaargy](https://steamcommunity.com/id/alaargy) |
-
----
