@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### ≝ About Me
 
 Φ Know-how Student Φ  
 
@@ -21,13 +21,13 @@
 
 ---
 
-### 🔗 Connect with Me
+### ⇒ Connect with Me
 
 | Platform | Link |
 |---------|------|
-| 💬 Discord | `@alaargy_t90` |
-| 🧠 Reddit | [reddit.com/user/Alaargy](https://www.reddit.com/user/Alaargy) |
-| 🎮 Steam | [steamcommunity.com/id/alaargy](https://steamcommunity.com/id/alaargy) |
-| 🎮 Xbox | [xbox.com/play/user/Zechariah2140](https://www.xbox.com/en-US/play/user/Zechariah2140) |
+| Discord | `@alaargy_t90` |
+| Reddit | [reddit.com/user/Alaargy](https://www.reddit.com/user/Alaargy) |
+| Steam | [steamcommunity.com/id/alaargy](https://steamcommunity.com/id/alaargy) |
+| Xbox | [xbox.com/play/user/Zechariah2140](https://www.xbox.com/en-US/play/user/Zechariah2140) |
 
 ---
