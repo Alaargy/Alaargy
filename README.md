@@ -20,16 +20,6 @@
 │- I Strive to become a Systems Engineer  
 ╰≽  
 
-🛠 Currently learning:
-- MATLAB for Engineering Simulations  
-- Mathematical Thinking & Logic  
-- Git & GitHub as Digital Identity  
-
-🌀 I'm interested in:
-- Simulation & Modeling  
-- Problem-solving with code  
-- Mixing Philosophy & Engineering 🌌  
-
 ---
 
 ### 🔗 Connect with Me
