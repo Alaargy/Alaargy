@@ -2,7 +2,6 @@
 
 # ✦ Zechariah (Alaargy) ✦  
 > ∯ Know-how Student | Systems Engineer in progress ∯    
-> ⌁ I explore, I learn, I build ⌁
 
 </div>
 
@@ -32,10 +31,3 @@
 | 🎮 Xbox | [xbox.com/play/user/Zechariah2140](https://www.xbox.com/en-US/play/user/Zechariah2140) |
 
 ---
-
-<div align="center">
-
-> “Stay curious. Grow with code. Think beyond.”  
-> – Alaargy / Zechariah
-
-</div>
